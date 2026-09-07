@@ -58,3 +58,5 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # Directorio de mongo
 /mongo
+
+.env
